@@ -1,6 +1,7 @@
 body {
 	color: #ddd;
 	background-color: #000;
+  text-align: justify;
 }
 
 ::-moz-selection {
